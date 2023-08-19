@@ -1,3 +1,3 @@
 while(true) {
- I.Love(Nil);
+ I.Love(Asya);
 }
